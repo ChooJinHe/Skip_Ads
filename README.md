@@ -14,7 +14,7 @@ Skip Ads is an Android application designed to automate the process of skipping 
 
 ### Installation
 
-1. [Download the application](./app/release/Skip%20Ads.apk) or clone the repository to build your own.
+1. [Download the application](./app/release/app-release.apk) or clone the repository to build your own.
 2. Install the app on your Android device.
 
 ### Enabling Accessibility Service
