@@ -44,10 +44,17 @@ Currently, the Skip Ads app supports the following media applications:
 ## Demonstrations
 
 Watch the video below to see how the application can auto click on "Skip" button in Youtube.
-<attach vid>
+
+
+https://github.com/ChooJinHe/Skip_Ads/assets/28280357/c5b28361-0471-4703-9440-32bbe4455c80
+
 
 Watch the video below to see how the application can auto click on "Skip ad" button in Youtube Music.
-<attach vid>
+
+
+https://github.com/ChooJinHe/Skip_Ads/assets/28280357/860e15b0-7c98-400c-8f11-d0062064045c
+
+
 
 ## Contributing
 
